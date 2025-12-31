@@ -986,35 +986,35 @@
       "Gray blue": {
         "utility-gray-blue-600": {
           "$type": "color",
-          "$value": "{Colors.Gray blue.400}"
+          "$value": "#ffffff"
         },
         "utility-gray-blue-700": {
           "$type": "color",
-          "$value": "{Colors.Gray blue.300}"
+          "$value": "#ffffff"
         },
         "utility-gray-blue-500": {
           "$type": "color",
-          "$value": "{Colors.Gray blue.500}"
+          "$value": "#ffffff"
         },
         "utility-gray-blue-200": {
           "$type": "color",
-          "$value": "{Colors.Gray blue.800}"
+          "$value": "#ffffff"
         },
         "utility-gray-blue-50": {
           "$type": "color",
-          "$value": "{Colors.Gray blue.950}"
+          "$value": "#ffffff"
         },
         "utility-gray-blue-100": {
           "$type": "color",
-          "$value": "{Colors.Gray blue.900}"
+          "$value": "#ffffff"
         },
         "utility-gray-blue-400": {
           "$type": "color",
-          "$value": "{Colors.Gray blue.600}"
+          "$value": "#ffffff"
         },
         "utility-gray-blue-300": {
           "$type": "color",
-          "$value": "{Colors.Gray blue.700}"
+          "$value": "#ffffff"
         }
       },
       "Green": {

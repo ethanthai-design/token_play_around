@@ -3,11 +3,11 @@
     "Text": {
       "text-primary (900)": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).900}"
+        "$value": "{Colors.Gray.900}"
       },
       "text-tertiary (600)": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).600}"
+        "$value": "{Colors.Gray.600}"
       },
       "text-error-primary (600)": {
         "$type": "color",
@@ -27,19 +27,19 @@
       },
       "text-secondary (700)": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).700}"
+        "$value": "{Colors.Gray.700}"
       },
       "text-disabled": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).500}"
+        "$value": "{Colors.Gray.500}"
       },
       "text-secondary_hover": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).800}"
+        "$value": "{Colors.Gray.800}"
       },
       "text-tertiary_hover": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).700}"
+        "$value": "{Colors.Gray.700}"
       },
       "text-brand-secondary (700)": {
         "$type": "color",
@@ -47,11 +47,11 @@
       },
       "text-placeholder": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).500}"
+        "$value": "{Colors.Gray.500}"
       },
       "text-placeholder_subtle": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).300}"
+        "$value": "{Colors.Gray.300}"
       },
       "text-brand-tertiary (600)": {
         "$type": "color",
@@ -59,7 +59,7 @@
       },
       "text-quaternary (500)": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).500}"
+        "$value": "{Colors.Gray.500}"
       },
       "text-brand-primary (900)": {
         "$type": "color",
@@ -97,7 +97,7 @@
     "Border": {
       "border-secondary": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).200}"
+        "$value": "{Colors.Gray.200}"
       },
       "border-error_subtle": {
         "$type": "color",
@@ -105,7 +105,7 @@
       },
       "border-primary": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).300}"
+        "$value": "{Colors.Gray.300}"
       },
       "border-brand": {
         "$type": "color",
@@ -113,7 +113,7 @@
       },
       "border-disabled": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).300}"
+        "$value": "{Colors.Gray.300}"
       },
       "border-error": {
         "$type": "color",
@@ -121,11 +121,11 @@
       },
       "border-disabled_subtle": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).200}"
+        "$value": "{Colors.Gray.200}"
       },
       "border-tertiary": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).100}"
+        "$value": "{Colors.Gray.100}"
       },
       "border-brand_alt": {
         "$type": "color",
@@ -143,7 +143,7 @@
       },
       "bg-tertiary": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).100}"
+        "$value": "{Colors.Gray.100}"
       },
       "bg-brand-primary": {
         "$type": "color",
@@ -175,7 +175,7 @@
       },
       "bg-secondary-solid": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).600}"
+        "$value": "{Colors.Gray.600}"
       },
       "bg-error-solid": {
         "$type": "color",
@@ -191,19 +191,19 @@
       },
       "bg-secondary_hover": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).100}"
+        "$value": "{Colors.Gray.100}"
       },
       "bg-primary_hover": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).50}"
+        "$value": "{Colors.Gray.50}"
       },
       "bg-disabled": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).100}"
+        "$value": "{Colors.Gray.100}"
       },
       "bg-active": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).50}"
+        "$value": "{Colors.Gray.50}"
       },
       "bg-brand-solid_hover": {
         "$type": "color",
@@ -219,15 +219,15 @@
       },
       "bg-secondary": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).50}"
+        "$value": "{Colors.Gray.50}"
       },
       "bg-disabled_subtle": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).50}"
+        "$value": "{Colors.Gray.50}"
       },
       "bg-quaternary": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).200}"
+        "$value": "{Colors.Gray.200}"
       },
       "bg-primary_alt": {
         "$type": "color",
@@ -239,15 +239,15 @@
       },
       "bg-secondary_alt": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).50}"
+        "$value": "{Colors.Gray.50}"
       },
       "bg-overlay": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).950}"
+        "$value": "{Colors.Gray.950}"
       },
       "bg-secondary_subtle": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).25}"
+        "$value": "{Colors.Gray.50}"
       },
       "bg-brand-section": {
         "$type": "color",
@@ -259,13 +259,13 @@
       },
       "bg-primary-solid": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).950}"
+        "$value": "{Colors.Gray.950}"
       }
     },
     "Foreground": {
       "fg-secondary (700)": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).700}"
+        "$value": "{Colors.Gray.700}"
       },
       "fg-warning-primary": {
         "$type": "color",
@@ -285,15 +285,15 @@
       },
       "fg-secondary_hover": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).800}"
+        "$value": "{Colors.Gray.800}"
       },
       "fg-primary (900)": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).900}"
+        "$value": "{Colors.Gray.900}"
       },
       "fg-disabled": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).400}"
+        "$value": "{Colors.Gray.400}"
       },
       "fg-brand-secondary (500)": {
         "$type": "color",
@@ -305,11 +305,11 @@
       },
       "fg-quaternary (400)": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).400}"
+        "$value": "{Colors.Gray.400}"
       },
       "fg-quaternary_hover": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).500}"
+        "$value": "{Colors.Gray.500}"
       },
       "fg-error-primary": {
         "$type": "color",
@@ -317,7 +317,7 @@
       },
       "fg-disabled_subtle": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).300}"
+        "$value": "{Colors.Gray.300}"
       },
       "fg-warning-secondary": {
         "$type": "color",
@@ -329,11 +329,11 @@
       },
       "fg-tertiary (600)": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).600}"
+        "$value": "{Colors.Gray.600}"
       },
       "fg-tertiary_hover": {
         "$type": "color",
-        "$value": "{Colors.Gray (light mode).700}"
+        "$value": "{Colors.Gray.700}"
       },
       "fg-brand-primary_alt": {
         "$type": "color",
@@ -570,43 +570,43 @@
       "Gray": {
         "utility-gray-700": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).700}"
+          "$value": "{Colors.Gray.700}"
         },
         "utility-gray-600": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).600}"
+          "$value": "{Colors.Gray.600}"
         },
         "utility-gray-500": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).500}"
+          "$value": "{Colors.Gray.500}"
         },
         "utility-gray-200": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).200}"
+          "$value": "{Colors.Gray.200}"
         },
         "utility-gray-50": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).50}"
+          "$value": "{Colors.Gray.50}"
         },
         "utility-gray-100": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).100}"
+          "$value": "{Colors.Gray.100}"
         },
         "utility-gray-400": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).400}"
+          "$value": "{Colors.Gray.400}"
         },
         "utility-gray-300": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).300}"
+          "$value": "{Colors.Gray.300}"
         },
         "utility-gray-900": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).900}"
+          "$value": "{Colors.Gray.900}"
         },
         "utility-gray-800": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).800}"
+          "$value": "{Colors.Gray.800}"
         }
       },
       "Error": {
@@ -1050,23 +1050,57 @@
           "$type": "color",
           "$value": "{Colors.Yellow.700}"
         }
+      },
+      "Gray blue": {
+        "utility-gray-blue-600": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "utility-gray-blue-700": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "utility-gray-blue-500": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "utility-gray-blue-200": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "utility-gray-blue-50": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "utility-gray-blue-100": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "utility-gray-blue-400": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "utility-gray-blue-300": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
       }
     },
     "Components": {
       "Tooltips": {
         "tooltip-supporting-text": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).300}"
+          "$value": "{Colors.Gray.300}"
         }
       },
       "Text editor": {
         "text-editor-icon-fg": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).400}"
+          "$value": "{Colors.Gray.400}"
         },
         "text-editor-icon-fg_active": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).500}"
+          "$value": "{Colors.Gray.500}"
         }
       },
       "Icons": {
@@ -1077,7 +1111,7 @@
           },
           "featured-icon-light-fg-gray": {
             "$type": "color",
-            "$value": "{Colors.Gray (light mode).500}"
+            "$value": "{Colors.Gray.500}"
           },
           "featured-icon-light-fg-error": {
             "$type": "color",
@@ -1116,7 +1150,7 @@
       "Mockups": {
         "screen-mockup-border": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).900}"
+          "$value": "{Colors.Gray.900}"
         }
       },
       "Footers": {
@@ -1138,11 +1172,11 @@
       "Toggles": {
         "toggle-button-fg_disabled": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).50}"
+          "$value": "{Colors.Gray.50}"
         },
         "toggle-border": {
           "$type": "color",
-          "$value": "{Colors.Gray (light mode).300}"
+          "$value": "{Colors.Gray.300}"
         },
         "toggle-slim-border_pressed": {
           "$type": "color",
