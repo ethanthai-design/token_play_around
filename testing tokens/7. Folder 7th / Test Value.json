@@ -1,0 +1,10 @@
+{
+  "Colors": {
+    "test gray": {
+      "50": {
+        "$type": "color",
+        "$value": "#000"
+      }
+    }
+  }
+}

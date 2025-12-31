@@ -1071,5 +1071,14 @@
     },
     "$figmaModeId": "7403:0",
     "$figmaCollectionId": "VariableCollectionId:7403:16248"
+  },
+  {
+    "id": "a372648fb64b5ec827f13ed95efc98b0c6da6710",
+    "name": "Test Value",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "7. Folder 7th / Test Value": "enabled"
+    },
+    "group": "7. Folder 7th"
   }
 ]
