@@ -1,0 +1,14 @@
+{
+  "container-max-width-desktop": {
+    "$type": "number",
+    "$value": "{Spacing.320 (1,280px)}"
+  },
+  "container-padding-desktop": {
+    "$type": "number",
+    "$value": "{Spacing.8 (32px)}"
+  },
+  "container-padding-mobile": {
+    "$type": "number",
+    "$value": "{Spacing.4 (16px)}"
+  }
+}
